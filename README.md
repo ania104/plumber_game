@@ -5,7 +5,7 @@ pozycji klikając na nie. Kliknięcie wybranej rury powoduje jej obrót o 90 sto
 połączenia między rurą doprowadzającą (górna-lewa),  a odprowadzającą (dolna-prawa) przed upływem wyznaczonego czasu. W trakcie gry 
 można wyjść do Menu za pomocą klawisza ESC, nie powoduje to jednak zatrzymania czasu. "Start gry" rozpoczyna grę zawsze od pierwszego
 poziomu.
-## Instrukcja ENG
+## Instruction ENG
 Start game with "START GRY" button. Rotate pipes clockwise using left mouse button to enable water to flow from entrance to exit 
 before times end. After succes click "GRAJ DALEJ" to move to the next level, click "MENU" to go back to the menu. In the case of 
 failure you can repeat level by clicking "POWTÓRZ". You can also press ESC key to show the menu without stopping the time. 
